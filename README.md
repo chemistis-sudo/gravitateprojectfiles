@@ -1,2 +1,2 @@
 # gravitateprojectfiles
-gravitate is a game 
+All the game files used to build the game "Gravitate".
